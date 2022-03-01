@@ -21,7 +21,7 @@ body {
     padding-bottom: 100px;
 }
 .navbar-brand {
-   @font-face {font-family: "GoodTimesW00-Bold"; src: url("//db.onlinewebfonts.com/t/3750ae4f553135962d46a5e916204fe5.eot"); src: url("//db.onlinewebfonts.com/t/3750ae4f553135962d46a5e916204fe5.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/3750ae4f553135962d46a5e916204fe5.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/3750ae4f553135962d46a5e916204fe5.woff") format("woff"), url("//db.onlinewebfonts.com/t/3750ae4f553135962d46a5e916204fe5.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/3750ae4f553135962d46a5e916204fe5.svg#GoodTimesW00-Bold") format("svg"); }
+   font-family: "GoodTimesW00-Bold";
 }
 
 .bg-image {
