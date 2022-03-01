@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500;600&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Shizuru&family=Staatliches&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=ZCOOL+QingKe+HuangYou&display=swap');
 
 
 body {
@@ -10,7 +10,7 @@ body {
 }
 
 .navbar-brand {
-    font-family: 'Shizuru', cursive;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
 }
 .hero-area {
     position: relative;
